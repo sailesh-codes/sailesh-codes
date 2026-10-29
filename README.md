@@ -1,14 +1,7 @@
 # Hi, I'm Sailesh T 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hi%2C+I'm+Sailesh+T+%F0%9F%91%8B;Full-Stack+%26+Interactive+Frontend+Developer;Founder+of+Code+Craft;Building+AI+Agent+Systems;LLM+Workflows+%2B+RAG+%2B+Tool+Calling;WAF+%2B+Application+Security;Next.js+%2B+TypeScript+%2B+Node.js;React+Native+%2B+Expo;Docker+%2B+Kubernetes+%2B+CI%2FCD;Building+Professional+Web+Services)](https://github.com/sailesh-codes)
 
 Interactive Frontend and Full-Stack Developer, founder of **Code Craft**, building professional web services and scalable software applications.
-
-![AI Agents](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6D00&center=true&vCenter=true&width=650&lines=AI+Agents+%2B+LLM+Workflows;RAG+%2B+Tool+Calling;WAF+%2B+Application+Security;Full-Stack+%2B+Cloud+Deployment)
-
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 -  Currently building modern full-stack products with TypeScript, Next.js, and AI integrations  
 -  Exploring AI-powered developer tools, agent systems, and intelligent web experiences  
