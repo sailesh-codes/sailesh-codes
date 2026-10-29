@@ -2,11 +2,19 @@
 
 Interactive Frontend and Full-Stack Developer, founder of **Code Craft**, building professional web services and scalable software applications.
 
-- 🔭 Currently building modern full-stack products with TypeScript, Next.js, and AI integrations  
-- 🌱 Exploring AI-powered developer tools, agent systems, and intelligent web experiences  
-- 💼 Founder: [Code Craft](https://www.codecraftnet.com/)  
-- 🌐 Portfolio: [sailesh-codes.vercel.app](https://sailesh-codes.vercel.app/)  
-- 📫 Reach me: [saileshtrn06@gmail.com](mailto:saileshtrn06@gmail.com)  
+![AI Agents](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6D00&center=true&vCenter=true&width=650&lines=AI+Agents+%2B+LLM+Workflows;RAG+%2B+Tool+Calling;WAF+%2B+Application+Security;Full-Stack+%2B+Cloud+Deployment)
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+
+-  Currently building modern full-stack products with TypeScript, Next.js, and AI integrations  
+-  Exploring AI-powered developer tools, agent systems, and intelligent web experiences  
+-  Founder: [Code Craft](https://www.codecraftnet.com/)  
+-  Portfolio: [sailesh-codes.vercel.app](https://sailesh-codes.vercel.app/)  
+-  Reach me: [saileshtrn06@gmail.com](mailto:saileshtrn06@gmail.com)  
 
 ## Tech Stack
 
@@ -44,12 +52,17 @@ Interactive Frontend and Full-Stack Developer, founder of **Code Craft**, buildi
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Lenis](https://img.shields.io/badge/Lenis-000000?style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge)
+![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottie&logoColor=white)
 
 ### AI & Agent Development
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Mastra](https://img.shields.io/badge/Mastra-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
 
 ### Backend, Database & Cloud
 
@@ -81,6 +94,8 @@ Interactive Frontend and Full-Stack Developer, founder of **Code Craft**, buildi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 
 
 ## Open To
