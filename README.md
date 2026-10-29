@@ -1,5 +1,4 @@
 # Hi, I'm Sailesh T 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hi%2C+I'm+Sailesh+T+%F0%9F%91%8B;Full-Stack+%26+Interactive+Frontend+Developer;Founder+of+Code+Craft;Building+AI+Agent+Systems;LLM+Workflows+%2B+RAG+%2B+Tool+Calling;WAF+%2B+Application+Security;Next.js+%2B+TypeScript+%2B+Node.js;React+Native+%2B+Expo;Docker+%2B+Kubernetes+%2B+CI%2FCD;Building+Professional+Web+Services)](https://github.com/sailesh-codes)
 
 Interactive Frontend and Full-Stack Developer, founder of **Code Craft**, building professional web services and scalable software applications.
 
