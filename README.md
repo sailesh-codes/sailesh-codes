@@ -34,6 +34,7 @@ Interactive Frontend and Full-Stack Developer, founder of **Code Craft**, buildi
 - **Full-Stack Applications** — Developing scalable web products with Next.js, TypeScript, Node.js, Supabase, and modern UI systems.
 - **Engineering Operations** — Connecting monitoring, testing, security checks, deployments, and alerts into practical developer workflows.
 - **Reliable Delivery** — Using CI/CD, Docker, cloud deployment, and quality checks to ship dependable client products.
+- - **npm Package Development** — Building, testing, versioning, and publishing reusable npm packages, including developer tools, installable test suites, and CLI-based products.
 
 ## Tools & Technologies
 
@@ -80,8 +81,6 @@ Interactive Frontend and Full-Stack Developer, founder of **Code Craft**, buildi
 
 ### DevOps & Developer Tools
 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
