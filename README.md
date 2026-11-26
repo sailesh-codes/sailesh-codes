@@ -34,7 +34,7 @@ Interactive Frontend and Full-Stack Developer, founder of **Code Craft**, buildi
 - **Full-Stack Applications** — Developing scalable web products with Next.js, TypeScript, Node.js, Supabase, and modern UI systems.
 - **Engineering Operations** — Connecting monitoring, testing, security checks, deployments, and alerts into practical developer workflows.
 - **Reliable Delivery** — Using CI/CD, Docker, cloud deployment, and quality checks to ship dependable client products.
-- - **npm Package Development** — Building, testing, versioning, and publishing reusable npm packages, including developer tools, installable test suites, and CLI-based products.
+- **npm Package Development** — Building, testing, versioning, and publishing reusable npm packages, including developer tools, installable test suites, and CLI-based products.
 
 ## Tools & Technologies
 
